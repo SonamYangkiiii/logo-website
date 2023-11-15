@@ -1,0 +1,76 @@
+body{
+    
+    background-image: url('https://i.pinimg.com/originals/1c/db/08/1cdb087b534bb948c0ba762ecb0145c6.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+  #section{
+
+    
+        height: 80vh;
+        background-image: url('https://cdn.inc42.com/wp-content/uploads/2020/03/EV_Feature-right-fi.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    #bar {
+
+        
+        background-color: lightgrey;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+       
+      
+        
+    }
+    ul {
+     width: 50%;
+      display: flex;
+      justify-content: space-around;
+      list-style-type: none;
+    
+       
+    }
+
+
+    img{
+       
+        width: 110px;
+        /* height: 110px; */
+        
+
+    }
+    #logo{
+
+        position: relative;
+        top: 90px;
+        right: 20px;
+         
+
+    }
+    h3{
+        color: black;
+        text-align: center;
+        padding: 40px;
+        font-size: 30px;
+    }
+    p{
+        color: aliceblue;
+    }
+    h1{
+
+        color: white;
+        text-align: center;
+        padding: 60px;
+    }
+    h2{
+        color: white;
+        text-align: center;
+    }
+    
+    
